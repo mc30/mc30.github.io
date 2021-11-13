@@ -1,2 +1,25 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Mikhail Churakov</title><link>https://mc30.github.io/posts/</link><description>Recent content in Posts on Mikhail Churakov</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>CC BY-NC-ND 4.0</copyright><lastBuildDate>Sun, 31 Oct 2021 21:46:38 +0100</lastBuildDate><atom:link href="https://mc30.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://mc30.github.io/posts/2021/10/my-first-post/</link><pubDate>Sun, 31 Oct 2021 21:46:38 +0100</pubDate><guid>https://mc30.github.io/posts/2021/10/my-first-post/</guid><description>Test This is a test.</description><content type="html">&lt;h1 id="test">Test&lt;/h1>
-&lt;p>This is a test.&lt;/p></content></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Mikhail Churakov</title>
+        <link>https://mc30.github.io/posts/</link>
+        <description>Recent content in Posts on Mikhail Churakov</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>CC BY-NC-ND 4.0</copyright>
+        <lastBuildDate>Sun, 31 Oct 2021 21:46:38 +0100</lastBuildDate>
+        <atom:link href="https://mc30.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My First Post</title>
+            <link>https://mc30.github.io/posts/2021/10/my-first-post/</link>
+            <pubDate>Sun, 31 Oct 2021 21:46:38 +0100</pubDate>
+            
+            <guid>https://mc30.github.io/posts/2021/10/my-first-post/</guid>
+            <description>Test This is a test.</description>
+            <content type="html"><![CDATA[<h1 id="test">Test</h1>
+<p>This is a test.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

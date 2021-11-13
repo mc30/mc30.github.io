@@ -1,6 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mikhail Churakov</title><link>https://mc30.github.io/</link><description>Recent content on Mikhail Churakov</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>CC BY-NC-ND 4.0</copyright><lastBuildDate>Sun, 31 Oct 2021 21:46:38 +0100</lastBuildDate><atom:link href="https://mc30.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://mc30.github.io/posts/2021/10/my-first-post/</link><pubDate>Sun, 31 Oct 2021 21:46:38 +0100</pubDate><guid>https://mc30.github.io/posts/2021/10/my-first-post/</guid><description>Test This is a test.</description></item><item><title>About</title><link>https://mc30.github.io/about/</link><pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate><guid>https://mc30.github.io/about/</guid><description>Hi, my name is Mikhail. Welcome to my website!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mikhail Churakov</title>
+    <link>https://mc30.github.io/</link>
+    <description>Recent content on Mikhail Churakov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CC BY-NC-ND 4.0</copyright>
+    <lastBuildDate>Sun, 31 Oct 2021 21:46:38 +0100</lastBuildDate><atom:link href="https://mc30.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://mc30.github.io/posts/2021/10/my-first-post/</link>
+      <pubDate>Sun, 31 Oct 2021 21:46:38 +0100</pubDate>
+      
+      <guid>https://mc30.github.io/posts/2021/10/my-first-post/</guid>
+      <description>Test This is a test.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mc30.github.io/about/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mc30.github.io/about/</guid>
+      <description>Hi, my name is Mikhail. Welcome to my website!
 I am a postdoctoral researcher at the Swedish University of Agricultural Sciences (SLU).
 You can check my research or my blog.
-Feel free to get in touch using any of the social media websites mentioned here.</description></item><item><title>Research</title><link>https://mc30.github.io/research/</link><pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate><guid>https://mc30.github.io/research/</guid><description>Here will be a summary of my research projects.
+Feel free to get in touch using any of the social media websites mentioned here.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://mc30.github.io/research/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mc30.github.io/research/</guid>
+      <description>Here will be a summary of my research projects.
 This will include links to my papers:
-http://dx.doi.org/10.1016/j.animal.2021.100253 http://dx.doi.org/10.1016/j.applanim.2021.105494 http://dx.doi.org/10.1371/journal.pntd.0007012 http://dx.doi.org/10.1016/j.prevetmed.2021.105501 https://doi.org/10.1016/j.prevetmed.2019.104726 http://dx.doi.org/10.1016/j.prevetmed.2018.05.006 And a link to my Google Scholar profile.</description></item></channel></rss>
+ http://dx.doi.org/10.1016/j.animal.2021.100253 http://dx.doi.org/10.1016/j.applanim.2021.105494 http://dx.doi.org/10.1371/journal.pntd.0007012 http://dx.doi.org/10.1016/j.prevetmed.2021.105501 https://doi.org/10.1016/j.prevetmed.2019.104726 http://dx.doi.org/10.1016/j.prevetmed.2018.05.006  And a link to my Google Scholar profile.</description>
+    </item>
+    
+  </channel>
+</rss>
